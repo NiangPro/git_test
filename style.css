@@ -1,3 +1,20 @@
 body{
     background: cyan;
 }
+
+ul{
+    position: relative;
+    height: 120px;
+}
+
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+    position: absolute;
+    width: 50px;
+    float: right;
+}
+
+ul li a{
+    color:white;
+}
